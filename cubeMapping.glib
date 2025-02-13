@@ -35,9 +35,11 @@ Program    	Cube				        \
 		    uMix <0. 1. 1.>			    \
         	uNoiseAmp <0. 0. 5.>		\
         	uNoiseFreq <0.0 0.1 0.5>	\
-            uWhiteMix 0.2			    \
-		    uEta 1.4
+            uWhiteMix <0. 0.2 1.>			    \
+		    uEta < 1. 1.4 2.7>
 
 Scale 0.4
 Sphere 1 50 50
-##Teapots
+Translate 0 5 0 
+Teapot
+##QuadXY  -0.2  3.  128  128

@@ -50,11 +50,11 @@ PerturbNormal3( float angx, float angy, float angz, vec3 n )
 void
 main( )
 {
-	// vec3 Normal = normalize(vNormal);	// remember to unitize this
-	// vec3 Eye =    normalize(vEyeDir);	// remember to unitize this
+	vec3 Normal = normalize(vNormal);	// remember to unitize this
+	vec3 Eye =    normalize(vEyeDir);	// remember to unitize this
 
-	vec3 Normal = vNormal;	
-	vec3 Eye =    vEyeDir;
+	// vec3 Normal = vNormal;	
+	// vec3 Eye =    vEyeDir;
 
 	vec4 nvx = texture( Noise3, uNoiseFreq*vMC );
 	vec4 nvy = texture( Noise3, uNoiseFreq*vec3(vMC.xy,vMC.z+0.33) );

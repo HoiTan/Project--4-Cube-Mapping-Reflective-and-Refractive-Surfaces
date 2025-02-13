@@ -1,0 +1,19 @@
+##OpenGL GLIB
+
+Perspective 70
+LookAt 0 0 4  0 0 0  0 1 0
+
+Vertex		ripples.vert
+Fragment	ripples.frag
+Program		Ripples					\
+		uLightX <-10. 0. 10.0>                  \
+                uLightY <-10. 10. 10.0>                 \
+                uLightZ <-10. 10. 10.0>                 \
+                uColor {0.7 0.8 0.1 1.}                 \
+                uTime <0. 0. 10.>                       \
+                uPd <.2 1. 1.5>                         \
+                uAmp0 <0. .05 .05>                      \
+                uAmp1 <0. 0. .05>                       \
+                uPhaseShift <0. 0. 6.28>
+
+QuadXY  -0.1  5.
