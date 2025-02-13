@@ -20,7 +20,7 @@ Noise added:
 ![Reflection](image/image2.png)
 ![Reraction](image/image3.png)
 wave:
-![wave](image/rapple.png)
+![wave](image/ripples.png)
 
 
 ### **Link**
