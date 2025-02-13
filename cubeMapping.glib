@@ -42,4 +42,4 @@ Scale 0.4
 Sphere 1 50 50
 Translate 0 5 0 
 Teapot
-##QuadXY  -0.2  3.  128  128
+##QuadXZ  -0.2  3.  128  128
