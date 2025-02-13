@@ -15,9 +15,9 @@ Applying the RGB to gl_FragColor will give us the result, and by using the mix f
 I loaded a bridge cube mapping scene from the provided website.
 
 ![Relection](image/image.png)
-![image.png](image/image (1).png)
-![image.png](image/image (2).png)
-![image.png](image/image (3).png)
+![Relection](image/image1.png)
+![Relection](image/image2.png)
+![Relection](image/image3.png)
 
 ### **Link**
 
