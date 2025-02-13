@@ -14,10 +14,14 @@ Applying the RGB to gl_FragColor will give us the result, and by using the mix f
 
 I loaded a bridge cube mapping scene from the provided website.
 
-![Relection](image/image.png)
-![Relection](image/image1.png)
-![Relection](image/image2.png)
-![Relection](image/image3.png)
+![Reflection](image/image.png)
+![Reraction](image/image1.png)
+Noise added:
+![Reflection](image/image2.png)
+![Reraction](image/image3.png)
+wave:
+![wave](image/rapple.png)
+
 
 ### **Link**
 
