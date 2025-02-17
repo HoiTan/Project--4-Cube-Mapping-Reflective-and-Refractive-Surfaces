@@ -7,22 +7,22 @@ Fragment texture.frag
 Program Texture  TexUnit 6
 
 Texture2D  6  posx.bmp
-QuadYZ 5. 5. 10 10
+#QuadYZ 5. 5. 10 10
 
 Texture2D  6  negx.bmp
-QuadYZ -5. 5. 10 10
+#QuadYZ -5. 5. 10 10
 
 Texture2D  6  posy.bmp
-QuadXZ 5. 5. 10 10
+#QuadXZ 5. 5. 10 10
 
 Texture2D  6  negy.bmp
-QuadXZ -5. 5. 10 10
+#QuadXZ -5. 5. 10 10
 
 Texture2D  6  posz.bmp
-QuadXY 5. 5. 10 10
+#QuadXY 5. 5. 10 10
 
 Texture2D  6  negz.bmp
-QuadXY -5. 5. 10 10
+#QuadXY -5. 5. 10 10
 
 CubeMap 6 posx.bmp negx.bmp  posy.bmp negy.bmp   posz.bmp negz.bmp
 CubeMap 7 posx.bmp negx.bmp  posy.bmp negy.bmp   posz.bmp negz.bmp
